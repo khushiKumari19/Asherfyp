@@ -1,0 +1,9 @@
+@media (max-width: 767px) {
+    .justify-content-center {
+      justify-content: unset !important;
+    }
+    .mb-4 {
+      margin-bottom: 2rem !important;
+    }
+  }
+  

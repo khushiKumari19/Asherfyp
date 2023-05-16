@@ -1,0 +1,30 @@
+/* Center the sign-in form on the page */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Style the card containing the form */
+  .card {
+    width: 30rem;
+    padding: 2rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Center the sign-in title */
+  .card-title {
+    text-align: center;
+  }
+  
+  /* Style the email and password inputs */
+  .form-control {
+    margin-bottom: 1rem;
+  }
+  
+  /* Style the sign-in button */
+  .btn-primary {
+    width: 100%;
+  }
+  
